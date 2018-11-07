@@ -17,7 +17,8 @@
 - Project(s): 11/06/2018
 - README: 11/06/2018
 
-# Example Images -> Please note that this app is not styled AT ALL. Thank you.
+# Example Image(s)
+### Please note that this app is not styled AT ALL. Thank you.
 | O.P | Panel | |
 | --- | --- | --- |
 | `IOS` | Home | ![Sandbox-home-page](public/images/preview_images/Sandbox-home-preview.png) |
