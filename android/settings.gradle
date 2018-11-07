@@ -1,0 +1,3 @@
+rootProject.name = 'React-Native-App-Sandbox'
+
+include ':app'
