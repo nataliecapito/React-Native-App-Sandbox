@@ -1,6 +1,6 @@
 # General
 ## React-Native-App-Sandbox
-- React Native - native application sandbox for learning and teaching purposes.
+- React Native sandbox for learning and teaching purposes.
 - README for native: `./READMES/NATIVE_README.md`.
 
 # Lint
@@ -17,7 +17,7 @@
 - Project(s): 11/06/2018
 - README: 11/06/2018
 
-# Example Image(s)
+# Example Image (11/06/2018)
 ### Please note that this app is not styled AT ALL. Thank you.
 | O.P | Panel | |
 | --- | --- | --- |

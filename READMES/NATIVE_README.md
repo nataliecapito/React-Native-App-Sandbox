@@ -1,6 +1,6 @@
 # General
 ## React-Native-App-Sandbox
-- React Native - native application sandbox for learning and teaching purposes.
+- React Native sandbox for learning and teaching purposes.
 
 # Implementation
 ## react-native setup
